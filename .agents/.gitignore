@@ -1,0 +1,5 @@
+.skill-build/
+.skill-sources-*/
+/skillcheck/
+/skillcheck-report.md
+skills/**/__pycache__/

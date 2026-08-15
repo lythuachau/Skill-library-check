@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skillcheck"
+  short_description: "Clarify needs and route installed Codex skills"
+  default_prompt: "Use $skillcheck. If my goal is vague, ask one adaptive question at a time, summarize my context for confirmation, then recommend installed skills with ready-to-use prompts and a readable dashboard."
+policy:
+  allow_implicit_invocation: false
