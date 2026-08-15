@@ -1,5 +1,7 @@
 # Skill Library Check
 
+[Tiếng Việt](./README.md) | [English](./README_EN.md) | [简体中文](./README_ZH-CN.md)
+
 `Skillcheck` là một Codex skill giúp kiểm kê các skill đang có, làm rõ nhu cầu bằng Q&A thích ứng, đề xuất đúng skill cho từng công việc và tạo prompt có thể sử dụng ngay.
 
 Repository này chứa mã nguồn của Skillcheck để cài đặt cho Codex CLI và Codex trong VS Code.
